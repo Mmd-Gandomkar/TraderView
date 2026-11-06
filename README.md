@@ -30,7 +30,6 @@ Rest assured, the application is 100% clean, offline, and safe to use.
 
 ## 🖼️ Screenshots
 
-*(You can upload your screenshots to a folder named `screenshots` in this repository and link them here)*
 
 ![Journal](Journal.png)
 ![Trading Insights](Trading_Insights.png)
