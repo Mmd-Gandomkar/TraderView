@@ -33,7 +33,7 @@ Rest assured, the application is 100% clean, offline, and safe to use.
 
 ![Journal](Journal.png)
 ![Trading Insights](Trading_Insights.png)
-![Multi-chart](Multi-chart.png)
+![Multi-chart](Multi_chart.png)
 
 ---
 
