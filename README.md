@@ -22,14 +22,7 @@ TraderView is a comprehensive Windows application designed to help you track, an
 
 1. Go to the **[Releases](../../releases)** section on the right side of this page.
 2. Download the latest `TraderView_Setup_5.5.3.exe` file.
-3. Run the installer and follow the on-screen instructions.
-
-### ⚠️ Important Note Regarding Windows SmartScreen
-Because this application is currently an independent release without a commercial Code Signing Certificate, Windows Defender SmartScreen might show a warning ("Windows protected your PC") upon the first run. 
-
-To install the app:
-1. Click on **"More info"**.
-2. Click on **"Run anyway"**.
+3. Run the installer
 
 Rest assured, the application is 100% clean, offline, and safe to use.
 
@@ -39,7 +32,7 @@ Rest assured, the application is 100% clean, offline, and safe to use.
 
 *(You can upload your screenshots to a folder named `screenshots` in this repository and link them here)*
 
-![Journal & Dashboard](screenshots/dashboard.png)
+![Journal](Journal.png)
 ![Trading Insights](Trading Insights.png)
 ![AI Coach](screenshots/ai_coach.png)
 
