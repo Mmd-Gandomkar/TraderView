@@ -40,7 +40,7 @@ Rest assured, the application is 100% clean, offline, and safe to use.
 *(You can upload your screenshots to a folder named `screenshots` in this repository and link them here)*
 
 ![Journal & Dashboard](screenshots/dashboard.png)
-![Live Chart Analyzer](screenshots/analyzer.png)
+![Trading Insights](Trading Insights.png)
 ![AI Coach](screenshots/ai_coach.png)
 
 ---
@@ -48,7 +48,6 @@ Rest assured, the application is 100% clean, offline, and safe to use.
 ## 📬 Contact & Support
 
 *   **Developer:** Mohammad Gandomkar
-*   **Telegram:** [@MG_TV_Developer](https://t.me/MG_TV_Developer)
 *   **LinkedIn:** [Mohammad Gandomkar](https://www.linkedin.com/in/mohammad-gandomkar-3211b143b)
 
 ---
